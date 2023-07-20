@@ -1,0 +1,12 @@
+# DON'T track system files
+*~
+.DS_Store
+.svn
+.cvs
+*.bak
+*.swp
+Thumbs.db
+gulpfile.js
+package.json
+static-config.json
+node_modules/
