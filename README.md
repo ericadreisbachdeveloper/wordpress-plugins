@@ -1,6 +1,6 @@
 
 # WordPress Plugins
-An ongoing updated list of preferred plugins. 
+A live list of best-in-class plugins. 
 
 ##### Last updated: 20 July 2023
 
