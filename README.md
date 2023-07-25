@@ -104,7 +104,7 @@ Plugin site: https://wordpress.org/plugins/wps-hide-login/
 <br />
 
 ## XML Sitemap Generator for Google
-**Redundant for sites that use Yoast** 
+**Redundant for sites that use Yoast** <br />
 Excellent tool for dynamically-generated sitemaps to improve search appearance. 
 
 Plugin site: https://wordpress.org/plugins/google-sitemap-generator/
