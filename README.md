@@ -58,17 +58,6 @@ ess.org/plugins/hyper-cache/
 
 <br />
 
-## Quick Page/Post Redirect Plugin
-Allows for easy redirect rules on URLs cached by search engines.
-
-Plugin site: https://wordpress.org/plugins/quick-pagepost-redirect-plugin/
-
-Check Quick Redirect in the Wordpress Vulnerability Database > https://wpscan.com/search?text=quick%20page%2Fpost%20redirect
-
-**Change settings in: Quick Redirects** 
-
-<br />
-
 ## SVG Support
 Allows vector SVG files uploaded to the Wordpress media library, allowing crystal clear retina display.
 
@@ -136,6 +125,18 @@ Plugin site: https://wordpress.org/plugins/broken-link-checker/
 Check Broken Link Checker in the WordPress Vulnerability Database > https://wpscan.com/search?text=Broken%20Link%20Checker
 
 **Change settings in: Link Checker**
+
+
+<br />
+
+## Quick Page/Post Redirect Plugin
+Allows for easy redirect rules on URLs cached by search engines.
+
+Plugin site: https://wordpress.org/plugins/quick-pagepost-redirect-plugin/
+
+Check Quick Redirect in the Wordpress Vulnerability Database > https://wpscan.com/search?text=quick%20page%2Fpost%20redirect
+
+**Change settings in: Quick Redirects** 
 
 <base target="_blank">
 
