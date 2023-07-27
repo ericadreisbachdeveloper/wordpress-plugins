@@ -2,7 +2,7 @@
 # WordPress Plugins
 A live list of best-in-class plugins. 
 
-##### Last updated: 23 July 2023
+##### Last updated: 27 July 2023
 
 <br />
 
